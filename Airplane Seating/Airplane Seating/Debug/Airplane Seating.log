@@ -1,0 +1,5 @@
+﻿  Airplane Seating.cpp
+c:\users\jessica\source\repos\airplane seating\airplane seating\airplane seating.cpp(19): warning C4101: 'j': unreferenced local variable
+c:\users\jessica\source\repos\airplane seating\airplane seating\airplane seating.cpp(18): warning C4101: 'i': unreferenced local variable
+c:\users\jessica\source\repos\airplane seating\airplane seating\airplane seating.cpp(20): warning C4101: 'goodseat': unreferenced local variable
+  Airplane Seating.vcxproj -> C:\Users\Jessica\source\repos\Airplane Seating\Debug\Airplane Seating.exe
